@@ -1,0 +1,32 @@
+[connection]
+id = vip.openvpn-tcp-italy
+uuid = a58c13cd-648c-46be-800b-5919bf2ede07
+type = vpn
+permissions = 
+
+[vpn]
+ca = /home/mehdi/.cert/nm-openvpn/vip.openvpn-tcp-italy-ca.pem
+cert = /home/mehdi/.cert/nm-openvpn/vip.openvpn-tcp-italy-cert.pem
+connection-type = password-tls
+dev = tun
+key = /home/mehdi/.cert/nm-openvpn/vip.openvpn-tcp-italy-key.pem
+password-flags = 1
+proto-tcp = yes
+remote = openitaly.speediran.info:8090
+service-type = org.freedesktop.NetworkManager.openvpn
+user = ir253080
+
+[ipv4]
+dns-search = 
+method = auto
+
+[ipv6]
+addr-gen-mode = stable-privacy
+dns-search = 
+method = auto
+
+[proxy]
+
+[vpn-secrets]
+password = 991166
+
