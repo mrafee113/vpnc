@@ -1,0 +1,58 @@
+[
+  {
+    "country": "usa",
+    "address": "v1.speedserver.info:555"
+  },
+  {
+    "country": "uk",
+    "address": "v2.speedserver.info:555"
+  },
+  {
+    "country": "holland",
+    "address": "v3.speedserver.info:555"
+  },
+  {
+    "country": "de",
+    "address": "v4.speedserver.info:555"
+  },
+  {
+    "country": "fr",
+    "address": "v5.speedserver.info:555"
+  },
+  {
+    "country": "canada",
+    "address": "v6.speedserver.info:555"
+  },
+  {
+    "country": "poland",
+    "address": "v10.speedserver.info:555"
+  },
+  {
+    "country": "ru",
+    "address": "v11.speedserver.info:555"
+  },
+  {
+    "country": "spain",
+    "address": "v12.speedserver.info:555"
+  },
+  {
+    "country": "turkey",
+    "address": "turk.speedserver.info:555"
+  },
+  {
+    "country": "singapore",
+    "address": "sin.speedserver.info:555"
+  },
+  {
+    "country": "dubai",
+    "address": "dub.speedserver.info:555"
+  },
+  {
+    "country": "australia",
+    "address": "aus.speedserver.info:555"
+  },
+  {
+    "country": "india",
+    "address": "ind.speedserver.info:555"
+  }
+]
