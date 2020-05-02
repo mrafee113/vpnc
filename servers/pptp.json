@@ -1,0 +1,70 @@
+[
+  {
+    "country": "us",
+    "address": "s0.speedserver.info"
+  },
+  {
+    "country": "fr",
+    "address": "s1.speedserver.info"
+  },
+  {
+    "country": "ca",
+    "address": "s2.speedserver.info"
+  },
+  {
+    "country": "ne",
+    "address": "s3.speedserver.info"
+  },
+  {
+    "country": "fr",
+    "address": "s4.speedserver.info"
+  },
+  {
+    "country": "us",
+    "address": "s5.speedserver.info"
+  },
+  {
+    "country": "us",
+    "address": "s6.speedserver.info"
+  },
+  {
+    "country": "uk",
+    "address": "s7.speedserver.info"
+  },
+  {
+    "country": "us",
+    "address": "s8.speedserver.info"
+  },
+  {
+    "country": "de",
+    "address": "s9.speedserver.info"
+  },
+  {
+    "country": "sp",
+    "address": "s10.speedserver.info"
+  },
+  {
+    "country": "ne",
+    "address": "s11.speedserver.info"
+  },
+  {
+    "country": "de",
+    "address": "s12.speedserver.info"
+  },
+  {
+    "country": "ne",
+    "address": "s13.speedserver.info"
+  },
+  {
+    "country": "uk",
+    "address": "s14.speedserver.info"
+  },
+  {
+    "country": "uk",
+    "address": "s15.speedserver.info"
+  },
+  {
+    "country": "uk",
+    "address": "s16.speedserver.info"
+  }
+]
